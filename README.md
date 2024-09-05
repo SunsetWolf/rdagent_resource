@@ -1,0 +1,1 @@
+# rdagent_resource
